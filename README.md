@@ -13,12 +13,12 @@
 2308 7058\n
 3469 2729\n
 9930 0595\n
-SWAFWQCSAF#@!#@!212414231313214 &&&&\n
+SWAFWQCSAF#@!#@!212414231313214 &&&&
 
-ec2-3-95-10-49.compute-1.amazonaws.com\n
-Administrator\n
-%ChSJSQv@GpXf!q*BpaGTa;T9LFS5d0N   ||||||\n
+ec2-3-95-10-49.compute-1.amazonaws.com
+Administrator
+%ChSJSQv@GpXf!q*BpaGTa;T9LFS5d0N   ||||||
 
-74.249.4.216:3389\n
-qx\n
-%BX5g5#NJDY#<_q\n
+74.249.4.216:3389
+qx
+%BX5g5#NJDY#<_q
