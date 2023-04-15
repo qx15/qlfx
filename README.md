@@ -4,21 +4,21 @@
 💞️ SUYRTS#U5#RTESA#E43###REJUH#####SRTH#54WUH#@@@@H543WAE@SRT@@RTSJH23QY45
 📫 SAVE YOUR BACKUP CODES Keep these backup codes somewhere safe but accessible.
 1136 9697
-1520 1166
-4084 1818
-6594 1604
-9167 9637
-1241 7920
-5347 8492
-2308 7058
-3469 2729
-9930 0595
-SWAFWQCSAF#@!#@!212414231313214 &&&&
+1520 1166\n
+4084 1818\n
+6594 1604\n
+9167 9637\n
+1241 7920\n
+5347 8492\n
+2308 7058\n
+3469 2729\n
+9930 0595\n
+SWAFWQCSAF#@!#@!212414231313214 &&&&\n
 
-ec2-3-95-10-49.compute-1.amazonaws.com
-Administrator
+ec2-3-95-10-49.compute-1.amazonaws.com\n
+Administrator\n
 %ChSJSQv@GpXf!q*BpaGTa;T9LFS5d0N   ||||||\n
 
-74.249.4.216:3389
-qx
-%BX5g5#NJDY#<_q
+74.249.4.216:3389\n
+qx\n
+%BX5g5#NJDY#<_q\n
