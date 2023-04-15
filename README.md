@@ -13,13 +13,12 @@
 2308 7058
 3469 2729
 9930 0595
-SWAFWQCSAF#@!#@!212414231313214
-34.148.6.249:3389
-qx
-O?\\g@B/VYofV/A
-+:J5DVT>={L[u!=
-34.83.202.46
+SWAFWQCSAF#@!#@!212414231313214 &&&&
 
-34.75.27.199:3389
-q5
+ec2-3-95-10-49.compute-1.amazonaws.com
+Administrator
+%ChSJSQv@GpXf!q*BpaGTa;T9LFS5d0N   ||||||\n
+
+74.249.4.216:3389
+qx
 %BX5g5#NJDY#<_q
