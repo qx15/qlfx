@@ -16,8 +16,10 @@
 SWAFWQCSAF#@!#@!212414231313214 &&&&
 
 ec2-3-95-10-49.compute-1.amazonaws.com
+
 Administrator
-%ChSJSQv@GpXf!q*BpaGTa;T9LFS5d0N   ||||||
+
+%ChSJSQv@GpXf!q*BpaGTa;T9LFS5d0N 
 
 74.249.4.216:3389
 qx
