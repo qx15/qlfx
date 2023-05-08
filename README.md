@@ -21,8 +21,8 @@ Administrator
 
 %ChSJSQv@GpXf!q*BpaGTa;T9LFS5d0N 
 
-74.249.4.216:3389
+74.249.34.43:3389
 
-qx
+q
 
-Mohammad2023#
+Password2023#
