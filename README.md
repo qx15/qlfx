@@ -34,11 +34,9 @@ Administrator
 
 %ChSJSQv@GpXf!q*BpaGTa;T9LFS5d0N 
 
-74.249.34.43:3389
+20.236.100.85:3389
 
-q
-
-Password2023#
+q5
 
 egwbwag43w
 
